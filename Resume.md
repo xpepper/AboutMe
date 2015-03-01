@@ -7,6 +7,7 @@ Hi there, my name is Pietro and I currently work at XPeppers as agile coach and 
 I enjoy talking about agile methods, lean software development and more broadly about every principle, practice or process that improve the way we work day by day.
 
 I’m always looking for better ways of doing things.
+
 ---
 
 You can find me online at the following locations:
