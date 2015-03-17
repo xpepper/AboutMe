@@ -1,4 +1,4 @@
-# Summary
+# Resume
 
 Hi there, my name is Pietro and I currently work at XPeppers as agile coach and XP software engineer.
 
