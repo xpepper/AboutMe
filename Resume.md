@@ -34,7 +34,7 @@ You can find me online at the following locations:
 
 ---
 
-## XPEPPERS
+## XPeppers
 
 I joined XPeppers as an Agile Coach and XP Software Engineer.
 
