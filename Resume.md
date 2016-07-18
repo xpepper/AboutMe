@@ -11,44 +11,20 @@ Here at XPeppers I put as much effort in developing products as I put in helping
 
 Technically speaking I have used mainly **Java** and **Ruby** as programming languages. I use **Javascript** too, mainly on the server side (NodeJS). But, more than languages, I try to learn techniques that help me work better and with lower stress in any context I may happen to work into: **TDD**, **Refactoring**, **Continuous Integration**, **Project Automation** and **Visualization**.
 
----
+## Where to find more about me
+### LinkedIn: https://it.linkedin.com/in/pietrodibello
+You can find more info about me on **[my LinkedIn page](https://it.linkedin.com/in/pietrodibello)**. There you'll find some of my most relevant experiences, some projects I worked on, several presentations I gave about topics I care. And you can also find some nice photos taken here and there.
 
-You can find me online at the following locations:
+### GitHub: https://github.com/xpepper
+On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating.
 
-- [My resume](http://it.linkedin.com/in/pietrodibello) on Linkedin
-- [My blog](http://xplayer.github.io/) (not writing frequently as I would though)
-- [My notes and thoughts](http://xpepper.roughdraft.io/)
-- Fork me on [GitHub](https://github.com/xpepper)!
-- [Twitter](http://www.twitter.com/pierodibello)
-- [Instagram](https://instagram.com/pierodibello/)
+### Blogging: https://gist.github.com/xpepper
+I like to write short posts on **[Gist](https://gist.github.com/xpepper)**. I'm using Gist as a sort of microblogging framework, I'm also **[help around an app](https://github.com/xpepper/Roughdraft)** with this purpose.
 
----
+A legacy blog is [here](http://xplayer.github.io), but it's really old.
 
-## Table of Contents
+### Other places
+Sometimes **[I tweet](https://twitter.com/pierodibello)**, but not that frequently. Sometimes I take nice pictures and publish them on **[Instagram](https://www.instagram.com/pierodibello/)**.
 
-- [XPeppers](#xpeppers)
-- [Career highlights](#career-highlights)
-- [Skills](#skills)
-- [Published](#published)
-- [Open Source Projects](#open-source-projects)
-- [Previously](#previously)
-- [Summary](#summary)
 
----
-
-## XPeppers
-
-I joined XPeppers as an Agile Coach and XP Software Engineer.
-
-I coach our own dev team and mentor other dev teams on adopting agile methods. Together with Lorenzo Cassulo I started this brand new office in Trento, and gradually built a fantastic team. I led several projects (in the "projects" section you'll fine more details about some of them).
-
-...
-
----
-
-## Summary
-
-I ideally want to get across two fundamental things about me:
-
-1. I like to coach teams and help them improve and be better at their job.
-2. I'm very passionate about programming and learning.
+d–(^ ‿ ^ )z
