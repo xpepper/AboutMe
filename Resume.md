@@ -1,13 +1,15 @@
 # Resume
 
-Hi there, my name is Pietro and I currently work at XPeppers as agile coach and XP software engineer.
+I am a **passionate coder**, I like to build products that can change the life of the people.  
+I am a **coach and a trainer**, I feel proud when I can help my team peers to become greater every day at their job.  
+I am an **agile developer**, I try to embody the agile and lean principles in my professional life.  
 
-I like to coach teams and help them improve and be better at their job. 
+## What I do
+I currently work for **XPeppers**, where I help clients to shape their ideas into actual digital products, using **agile methods**, and more generally any approach that can help the success of the project.
 
-But I cannot live without putting my hands on a keyboard: I'm a passionate coder, working mostly with Java and Ruby. I like to design, code, test-drive, build and run systems to solve people's needs. 
+Here at XPeppers I put as much effort in developing products as I put in helping my peers to growth, pairing with them as much as I can, helping them to progress in their studies, making code katas with them, and learn the essence of the agile methods. Agile methods basically boil down to inspect & adapt, work in tiny steps, use short feedback loops, learn constantly and visualize everything. And work together.
 
-I enjoy talking about agile methods, lean software development and more broadly about every principle, practice or process that may improve the way we work day by day.
-I’m always looking for better ways of doing things.
+Technically speaking I have used mainly **Java** and **Ruby** as programming languages. I use **Javascript** too, mainly on the server side (NodeJS). But, more than languages, I try to learn techniques that help me work better and with lower stress in any context I may happen to work into: **TDD**, **Refactoring**, **Continuous Integration**, **Project Automation** and **Visualization**.
 
 ---
 
