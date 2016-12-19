@@ -75,6 +75,7 @@ A legacy blog is [here](http://xplayer.github.io), but it's really old.
 
 ##### Interviews
 I had the pleasure to be interviewed by Vasco Duarte for his wonderful podcast. Here are the five episodes:
+
 1. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-3-dimensions-of-success/
 2. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-5-problems-every-scrum-master-must-help-the-team-recognize-and-own/
 3. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-effective-tools-for-change-management/
