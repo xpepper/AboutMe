@@ -24,6 +24,7 @@ I'm also a **conference speaker**, because I love sharing what I've learned and 
 My most recent presentations were about [the daily journal practice we use in our teams](www.slideshare.net/pierodibello/vivere-per-raccontarla-limportanza-del-daily-journal-in-un-team-agile)<sup>[2](#dailyjournalvideo)</sup>, [improving your hiring process to create a great team](http://www.slideshare.net/pierodibello/hiring-great-people-how-we-improved-our-recruiting-process-to-build-and-grow-a-great-agile-team)<sup>[1](#hiringvideo)</sup>, [creating a serverless architecture with AWS Lambda](https://slides.com/pierodibello/lessons-learned-from-aws-lambda) and some [lessons I learned on continuous delivery on a Java project](http://www.slideshare.net/pierodibello/continuous-delivery-su-progetti-java-cosa-abbiamo-imparato-facendoci-del-male). It was an honor and a pleasure for me to speak about these topics at Codemotion Berlin, ScanAgile Helsinki, Codemotion Milan, Italian Agile Days, among others.
 
 ### Noteworthy experiences I recently had
+
 ##### [Paros](https://www.paros.srl) - Payment platform for public administrations *(July 2014 - April 2016)*
 
 As an agile coach, I trained the dev team of the client on the engineering practices of XP, starting from clean code, TDD, refactoring and continuous integration.   
@@ -54,20 +55,22 @@ https://github.com/xpepper/java-basics
 * Hiring Geeks That Fit *by Johanna Rothman*
 
 ## Where to find more about me
+
 ### LinkedIn: https://it.linkedin.com/in/pietrodibello
 You can find more info about me on **[my LinkedIn page](https://it.linkedin.com/in/pietrodibello)**. There you'll find some of my most relevant experiences, some projects I worked on, several presentations I gave about topics I care. And you can also find some nice photos taken here and there.
 
-### GitHub: https://github.com/xpepper
+### GitHub: [https://github.com/xpepper](https://github.com/xpepper)
 On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating.
 
 ### Presentations
+
 You can find some of my slides here:
 
-* http://www.slideshare.net/pierodibello/
-* https://speakerdeck.com/pierodibello
-* https://slides.com/pierodibello
+* [http://www.slideshare.net/pierodibello/](http://www.slideshare.net/pierodibello/)
+* [https://speakerdeck.com/pierodibello](https://speakerdeck.com/pierodibello)
+* [https://slides.com/pierodibello](https://slides.com/pierodibello)
 
-### Blogging: https://gist.github.com/xpepper
+### Blogging: [https://gist.github.com/xpepper](https://gist.github.com/xpepper)
 I like to write short posts on **[Gist](https://gist.github.com/xpepper)**. I'm using Gist as a sort of microblogging framework.   
 I'm also **[helping out an app](https://github.com/xpepper/Roughdraft)** with this purpose: it publishes your public gists as a blog, with a nice and simple layout. You can check mine here: [http://xpepper.roughdraft.io/](http://xpepper.roughdraft.io/).
 
@@ -76,11 +79,11 @@ A legacy blog is [here](http://xplayer.github.io), but it's really old.
 ##### Interviews
 I had the pleasure to be interviewed by Vasco Duarte for his wonderful podcast. Here are the five episodes:
 
-1. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-3-dimensions-of-success/
-2. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-5-problems-every-scrum-master-must-help-the-team-recognize-and-own/
-3. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-effective-tools-for-change-management/
-4. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-dynamic-definition-of-success/
-5. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/
+1. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-3-dimensions-of-success/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-3-dimensions-of-success/)
+2. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-5-problems-every-scrum-master-must-help-the-team-recognize-and-own/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-5-problems-every-scrum-master-must-help-the-team-recognize-and-own/)
+3. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-effective-tools-for-change-management/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-effective-tools-for-change-management/)
+4. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-dynamic-definition-of-success/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-dynamic-definition-of-success/)
+5. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/)
 
 ### Other places
 Sometimes **[I tweet](https://twitter.com/pierodibello)**, but not that frequently. Sometimes I take nice pictures and publish them on **[Instagram](https://www.instagram.com/pierodibello/)**.
