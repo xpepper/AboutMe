@@ -21,7 +21,7 @@ I'm also a firmly believer in the power of **Visualization**, from visualizing t
 I consider myself a *full-stack developer*, meaning that I deeply care for the overall outcome of the project efforts, not just that my (or my team's) tasks are in the DONE column in a task board somewhere.
 
 I'm also a **conference speaker**, because I love sharing what I've learned and receive feedback from others about my ideas. And because, after all, I like challenges.  
-My most recent presentations were about [improving your hiring process to create a great team](http://www.slideshare.net/pierodibello/hiring-great-people-how-we-improved-our-recruiting-process-to-build-and-grow-a-great-agile-team)<sup>[1](#hiringvideo)</sup>, [creating a serverless architecture with AWS Lambda](https://slides.com/pierodibello/lessons-learned-from-aws-lambda) and some [lessons I learned on continuous delivery on a Java project](http://www.slideshare.net/pierodibello/continuous-delivery-su-progetti-java-cosa-abbiamo-imparato-facendoci-del-male). It was an honor and a pleasure for me to speak about these topics at Codemotion Berlin, ScanAgile Helsinki, Codemotion Milan, Italian Agile Days Brescia, among others.
+My most recent presentations were about [the daily journal practice we use in our teams](www.slideshare.net/pierodibello/vivere-per-raccontarla-limportanza-del-daily-journal-in-un-team-agile)<sup>[2](#dailyjournalvideo)</sup>, [improving your hiring process to create a great team](http://www.slideshare.net/pierodibello/hiring-great-people-how-we-improved-our-recruiting-process-to-build-and-grow-a-great-agile-team)<sup>[1](#hiringvideo)</sup>, [creating a serverless architecture with AWS Lambda](https://slides.com/pierodibello/lessons-learned-from-aws-lambda) and some [lessons I learned on continuous delivery on a Java project](http://www.slideshare.net/pierodibello/continuous-delivery-su-progetti-java-cosa-abbiamo-imparato-facendoci-del-male). It was an honor and a pleasure for me to speak about these topics at Codemotion Berlin, ScanAgile Helsinki, Codemotion Milan, Italian Agile Days, among others.
 
 ### Noteworthy experiences I recently had
 ##### [Paros](https://www.paros.srl) - Payment platform for public administrations *(July 2014 - April 2016)*
@@ -60,7 +60,7 @@ You can find more info about me on **[my LinkedIn page](https://it.linkedin.com/
 ### GitHub: https://github.com/xpepper
 On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating.
 
-### Presentations
+### Presentations
 You can find some of my slides here:
 
 * http://www.slideshare.net/pierodibello/
@@ -73,9 +73,19 @@ I'm also **[helping out an app](https://github.com/xpepper/Roughdraft)** with th
 
 A legacy blog is [here](http://xplayer.github.io), but it's really old.
 
+##### Interviews
+I had the pleasure to be interviewed by Vasco Duarte for his wonderful podcast. Here are the five episodes:
+1. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-3-dimensions-of-success/
+2. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-5-problems-every-scrum-master-must-help-the-team-recognize-and-own/
+3. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-effective-tools-for-change-management/
+4. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-dynamic-definition-of-success/
+5. http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/
+
 ### Other places
 Sometimes **[I tweet](https://twitter.com/pierodibello)**, but not that frequently. Sometimes I take nice pictures and publish them on **[Instagram](https://www.instagram.com/pierodibello/)**.
 
 
 #### Notes
-<a name="myfootnote1">1</a>: [This is a video recording](https://vimeo.com/147029155) of the session taken at Agile Days 2015 (in italian).
+<a name="myfootnote1">1</a>: [This is a video recording](https://vimeo.com/147029155) of the session taken at Italian Agile Days 2015 in Brescia (in italian).
+
+<a name="myfootnote2">2</a>: [This is a video recording](https://vimeo.com/195952480) of the session taken at the Italian Agile Days 2016, in Pavia (in italian).
