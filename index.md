@@ -56,14 +56,13 @@ https://github.com/xpepper/java-basics
 
 ## Where to find more about me
 
-### LinkedIn: https://it.linkedin.com/in/pietrodibello
+### LinkedIn: [https://it.linkedin.com/in/pietrodibello](https://it.linkedin.com/in/pietrodibello)
 You can find more info about me on **[my LinkedIn page](https://it.linkedin.com/in/pietrodibello)**. There you'll find some of my most relevant experiences, some projects I worked on, several presentations I gave about topics I care. And you can also find some nice photos taken here and there.
 
 ### GitHub: [https://github.com/xpepper](https://github.com/xpepper)
 On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating.
 
-### Presentations
-
+### Presentations
 You can find some of my slides here:
 
 * [http://www.slideshare.net/pierodibello/](http://www.slideshare.net/pierodibello/)
