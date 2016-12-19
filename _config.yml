@@ -2,7 +2,7 @@ title: Pietro Di Bello
 description: Agile Software Engineer and XP Coach
 google_analytics: UA-38377452-2
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
 
 gems:
   - jekyll-mentions
