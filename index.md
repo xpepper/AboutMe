@@ -49,11 +49,13 @@ https://github.com/xpepper/java-basics
 **For more detailed project descriptions please look them up on [LinkedIn](https://it.linkedin.com/in/pietrodibello).**
 
 #### Some of the books I've recently read
-* Turn the Ship Around! A True Story of Turning Followers into Leaders *by L. David Marquet* (currently reading...)
-* Kanban in Action *by Marcus Hammarberg and Joakim Sunden*
-* Lean Change Management: Innovative Practices For Managing Organizational Change *by Jason Little*
-* Node.js in Action *by Cantelon, Harter et. al.*
-* Hiring Geeks That Fit *by Johanna Rothman*
+* [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development) *by Ron Jeffries*
+* [Serverless Architectures on AWS](http://amzn.to/2wOU3Lc) *by Peter Sbarski*
+* [Turn the Ship Around! A True Story of Turning Followers into Leaders](http://amzn.to/2wPELpu) *by L. David Marquet*
+* [Kanban in Action](http://amzn.to/2wPEH9e) *by Marcus Hammarberg and Joakim Sunden*
+* [Lean Change Management: Innovative Practices For Managing Organizational Change](http://amzn.to/2uN01uK) *by Jason Little*
+* [Node.js in Action](http://amzn.to/2vtMKsX) *by Cantelon, Harter et. al.*
+* [Hiring Geeks That Fit](https://leanpub.com/hiringgeeks) *by Johanna Rothman*
 
 ## Where to find more about me
 
@@ -74,7 +76,7 @@ You can find some of my slides here:
 I like to write short posts on **[Gist](https://gist.github.com/xpepper)**. I'm using Gist as a sort of microblogging framework.
 I'm also **[helping out an app](https://github.com/xpepper/Roughdraft)** with this purpose: it publishes your public gists as a blog, with a nice and simple layout. You can check mine here: [http://xpepper.roughdraft.io/](http://xpepper.roughdraft.io/).
 
-A legacy blog is [here](http://xplayer.github.io), but it's really old.
+I also keep a list of learning and studying activities on [my daily activity stream](https://xpepper.github.io/daily-activity-log/events).
 
 ##### Interviews
 I had the pleasure to be interviewed by Vasco Duarte for his podcast, [Scrum Master Toolbox Podcast](http://scrum-master-toolbox.org/). Here are the five episodes:
