@@ -23,8 +23,8 @@ Poi ho ampliato la mia esperienza con **Scrum**, **Lean** e **Kanban**, i cui pr
 Alla fin fine, "essere agili" significa per me seguire un approccio "inspect & adapt", procedere a piccoli passi, usare corti feedback loops, imparare costantemente dagli errori e visualizzare tutto quanto sia possibile visualizzare (ovvero quasi tutto!). 
 E lavorare assieme.
 
-Tecnicamente parlando, nella mia carriera ho usato **Java** e **Ruby** per diversi anni. Ho anche usato **Javascript**, principalmente lato server (NodeJS).
-Conosco bene tutto l'ecosistema Java, e ora come ora mi sta piacendo molto **Kotlin**.
+Tecnicamente parlando, nella mia carriera ho usato **Java** e **Ruby** per molti anni. Ho anche usato **Javascript**, principalmente lato server (NodeJS).
+Conosco bene tutto l'ecosistema Java e dei linguaggi JVM-based, e ora sto usando principalmente **Kotlin**, un linguaggio molto potente ed efficace, oltre che davvero divertente da usare!
 
 Oltre ai linguaggi di programmazione, cerco costantemente di adottare tecniche e pratiche che mi aiutano a lavorare meglio, riducendo i rischi e abbassando lo stress in tutti i contesti in cui mi trovo: tra le tante, posso citare il **Test-Driven Development**, il **Refactoring**, la **Continuous Integration**, la **Project Automation** (e pratiche **DevOps**, se servono).
 
@@ -41,6 +41,7 @@ Sono anche uno **speaker**, quando possibile, perché mi piace condividere quell
 
 Qualche presentazione passata:
 
+* [Surviving to a Legacy Codebase: how to take back control of legacy codebases](https://www.slideshare.net/pierodibello/surviving-to-a-legacy-codebase-xpdays-2018-edition/pierodibello/surviving-to-a-legacy-codebase-xpdays-2018-edition)
 * [The daily journal practice we use in our teams](www.slideshare.net/pierodibello/vivere-per-raccontarla-limportanza-del-daily-journal-in-un-team-agile)
 * [Improving your hiring process to create a great team](http://www.slideshare.net/pierodibello/hiring-great-people-how-we-improved-our-recruiting-process-to-build-and-grow-a-great-agile-team), 
 * [Creating a serverless architecture with AWS Lambda](https://slides.com/pierodibello/lessons-learned-from-aws-lambda)
