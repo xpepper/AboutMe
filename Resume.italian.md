@@ -65,7 +65,7 @@ Ho avuto il piacere di partecipare come ospite ad un ciclo di cinque episodi di 
 4. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-dynamic-definition-of-success/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-on-the-dynamic-definition-of-success/)
 5. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/)
 
-### Dati anagrafici
+### Dati anagrafici
 * Nome: Pietro Di Bello
 * Indirizzo: Via Del Dos, 13, Trento
 * Data di nascita: 26 Giugno 1972
