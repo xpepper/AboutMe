@@ -42,8 +42,8 @@ Sono anche uno **speaker**, quando possibile, perché mi piace condividere quell
 Qualche presentazione passata:
 
 * [Surviving to a Legacy Codebase: how to take back control of legacy codebases](https://www.slideshare.net/pierodibello/surviving-to-a-legacy-codebase-xpdays-2018-edition/pierodibello/surviving-to-a-legacy-codebase-xpdays-2018-edition)
-* [The daily journal practice we use in our teams](www.slideshare.net/pierodibello/vivere-per-raccontarla-limportanza-del-daily-journal-in-un-team-agile)
-* [Improving your hiring process to create a great team](http://www.slideshare.net/pierodibello/hiring-great-people-how-we-improved-our-recruiting-process-to-build-and-grow-a-great-agile-team), 
+* [The Daily Journal practice we use in our teams](www.slideshare.net/pierodibello/vivere-per-raccontarla-limportanza-del-daily-journal-in-un-team-agile)
+* [Hiring Great People: improving your hiring process to create a great team](http://www.slideshare.net/pierodibello/hiring-great-people-how-we-improved-our-recruiting-process-to-build-and-grow-a-great-agile-team), 
 * [Creating a serverless architecture with AWS Lambda](https://slides.com/pierodibello/lessons-learned-from-aws-lambda)
 * [Lessons I learned on continuous delivery on a Java project](http://www.slideshare.net/pierodibello/continuous-delivery-su-progetti-java-cosa-abbiamo-imparato-facendoci-del-male). 
 
