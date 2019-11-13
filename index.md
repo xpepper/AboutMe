@@ -13,7 +13,9 @@ I started with **eXtreme Programming** (XP) in 2002, in the first XP team in Ita
 Then I widened out my experiences with **Scrum**, **Lean** and **Kanban**, which all have great and inspiring principles.   
 In the end, "being agile" basically boils down to inspect & adapt, work in tiny steps, use short feedback loops, learn constantly and visualize everything. And work together.
 
-Technically speaking in my career I've used **Java** and **Ruby** extensively. I use **Javascript** too, mainly on the server side (NodeJS).    
+Technically speaking in my career I've used **Java** and **Ruby** extensively. I used **Javascript** too, mainly on the server side (NodeJS).    
+Recently I fell in love with **Kotlin**, which is the language I'm most proficient in, together with **Java**.
+
 But, besides programming languages, I try to learn and use techniques which help me work better, reducing the risks and lowering the stress, in any context I may happen to work: **Test-Driven Development**, **Refactoring**, **Continuous Integration**, **Project Automation** (and **DevOps** practices, too) among others.
 
 I'm also a firmly believer in the power of **Visualization**, from visualizing the value stream of a production process, and capturing the workflow of a team on a board, to sketching ideas and diagrams.    
