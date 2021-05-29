@@ -28,6 +28,13 @@ My most recent presentations were about [the daily journal practice we use in ou
 
 ### Noteworthy experiences I recently had
 
+##### [Mercury Payment Services](https://it.wikipedia.org/wiki/Mercury_Payment_Services) (then NEXI) - Payment service provider *(May 2016 - May 2021)*
+
+I lead the team working on several products composing the main payment solution for the largest italian bank.
+My team worked on:
+* the payment gateway and its components
+* the ACSs (one compliant to protocol 3DS 1.0, the other following the new 3DS 2.0 standard)
+
 ##### [Paros](https://www.paros.srl) - Payment platform for public administrations *(July 2014 - April 2016)*
 
 As an agile coach, I trained the dev team of the client on the engineering practices of XP, starting from clean code, TDD, refactoring and continuous integration.
