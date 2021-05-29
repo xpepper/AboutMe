@@ -75,7 +75,8 @@ You can find some of my slides here:
 * [https://slides.com/pierodibello](https://slides.com/pierodibello)
 
 ### Blogging: [https://gist.github.com/xpepper](https://gist.github.com/xpepper)
-I like to write short posts on **[Gist](https://gist.github.com/xpepper)**. I'm using Gist as a sort of microblogging framework.
+I like to write short posts on **[HackMd](https://hackmd.io/@pierodibello)** and on **[Gist](https://gist.github.com/xpepper)**. I'm using HackMD and Gist as a sort of microblogging frameworks.
+
 I'm also **[helping out an app](https://github.com/xpepper/Roughdraft)** with this purpose: it publishes your public gists as a blog, with a nice and simple layout. You can check mine here: [http://xpepper.roughdraft.io/](http://xpepper.roughdraft.io/).
 
 I also keep a list of learning and studying activities on [my daily activity stream](https://xpepper.github.io/daily-activity-log/events).
