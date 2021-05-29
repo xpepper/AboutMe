@@ -81,6 +81,12 @@ You can find some of my slides here:
 * [https://speakerdeck.com/pierodibello](https://speakerdeck.com/pierodibello)
 * [https://slides.com/pierodibello](https://slides.com/pierodibello)
 
+#### Videos
+* [Surviving a legacy codebase: tactics and tools - Codemotion Berlin 2018](https://www.youtube.com/watch?v=NGfvguzMjqw)
+* [Hiring Great People - Agile@Work 2015]https://www.youtube.com/watch?v=5dtixSAbI4c
+* [Hiring Great People - KLab 2018](https://www.youtube.com/watch?v=q5YQbVNBhZ4)
+* [Crisi del software - nella testa di uno sviluppatore - Intervista a Pietro Di Bello](https://www.youtube.com/watch?v=QT25YeMZWtA)
+
 ### Blogging: [https://gist.github.com/xpepper](https://gist.github.com/xpepper)
 I like to write short posts on **[HackMd](https://hackmd.io/@pierodibello)** and on **[Gist](https://gist.github.com/xpepper)**. I'm using HackMD and Gist as a sort of microblogging frameworks.
 
