@@ -4,7 +4,7 @@ I am a **coach and a trainer**, I feel proud when I can help my teammates to bec
 I am an **agile developer**, I try to embody the agile and lean principles in my professional life.   
 
 ## What I do
-I currently work for [XPeppers](https://www.xpeppers.com/), where I help clients to shape their ideas into actual digital products, using **agile methods**, and more generally any approach that can help a project to succeed.
+I currently work for [XPeppers](https://www.xpeppers.com/) (a [Claranet](https://www.claranet.it/) company), where I help clients to shape their ideas into actual digital products, using **agile methods**, and more generally any approach that can help a project to succeed.
 
 Here at XPeppers I put as much effort in developing products as I put in helping my teammates grow, **pair-programming** with them as much as I can, helping them to progress in their own studies, making code katas with them, and sharing the essence of agile methods.
 
