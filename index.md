@@ -29,6 +29,7 @@ My most recent presentations were about [the daily journal practice we use in ou
 ### Noteworthy experiences I recently had
 
 ##### [Arca Vita](https://www.arcassicura.it/) - Insurance Company *(from September 2020)*
+
 I'm helping ArcaVita dev teams to improve their skills and awareness on clean code that works, with
 * recurring team-wide code reviews
 * training the team on some key practices like refactoring, testing and TDD
@@ -65,15 +66,21 @@ https://github.com/xpepper/java-basics
 **For more detailed project descriptions please look them up on [LinkedIn](https://it.linkedin.com/in/pietrodibello).**
 
 #### Some of the books I've recently read
+* [Unit Testing: Principles, Practices, and Patterns](https://www.amazon.it/Unit-Testing-Principles-Practices-Patterns/dp/1617296279) *by Vladimir Khorikov*
 * [Clean Architecture](https://www.amazon.it/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) *by Bob Martin*
 * [Get Your Hands Dirty on Clean Architecture](https://www.amazon.it/Hands-Dirty-Clean-Architecture-hands/dp/1839211962) *by Tom Hombergs*
+* [Remote](https://basecamp.com/books/remote) *by Jason Fried*
+* [Team Guide to Metrics for Business Decisions](https://leanpub.com/metricsforbusinessdecisions) *by Mattia Battiston*
 * [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development) *by Ron Jeffries*
 * [Serverless Architectures on AWS](http://amzn.to/2wOU3Lc) *by Peter Sbarski*
+* [Fifty Quick Ideas to Improve Your User Stories](https://www.amazon.it/Fifty-Quick-Ideas-Improve-Stories/dp/0993088104) *by 
+Gojko Adzic*
 * [Turn the Ship Around! A True Story of Turning Followers into Leaders](http://amzn.to/2wPELpu) *by L. David Marquet*
 * [Kanban in Action](http://amzn.to/2wPEH9e) *by Marcus Hammarberg and Joakim Sunden*
 * [Lean Change Management: Innovative Practices For Managing Organizational Change](http://amzn.to/2uN01uK) *by Jason Little*
 * [Node.js in Action](http://amzn.to/2vtMKsX) *by Cantelon, Harter et. al.*
 * [Hiring Geeks That Fit](https://leanpub.com/hiringgeeks) *by Johanna Rothman*
+* [Becoming a Technical Leader](https://www.amazon.it/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021) *by the great Gerald M. Weinberg*
 
 ## Where to find more about me
 
@@ -82,6 +89,9 @@ You can find more info about me on **[my LinkedIn page](https://it.linkedin.com/
 
 ### GitHub: [https://github.com/xpepper](https://github.com/xpepper)
 On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating.
+
+### HackMD: [https://hackmd.io/@pierodibello](https://hackmd.io/@pierodibello)
+Where I write my notes and collect my learning moments.
 
 ### Presentations
 You can find some of my slides here:
@@ -92,7 +102,7 @@ You can find some of my slides here:
 
 #### Videos
 * [Surviving a legacy codebase: tactics and tools - Codemotion Berlin 2018](https://www.youtube.com/watch?v=NGfvguzMjqw)
-* [Hiring Great People - Agile@Work 2015]https://www.youtube.com/watch?v=5dtixSAbI4c
+* [Hiring Great People - Agile@Work 2015](https://www.youtube.com/watch?v=5dtixSAbI4c)
 * [Hiring Great People - KLab 2018](https://www.youtube.com/watch?v=q5YQbVNBhZ4)
 * [Crisi del software - nella testa di uno sviluppatore - Intervista a Pietro Di Bello](https://www.youtube.com/watch?v=QT25YeMZWtA)
 
