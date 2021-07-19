@@ -15,7 +15,7 @@ In the end, "being agile" basically boils down to inspect & adapt, work in tiny 
 
 Technically speaking in my career I've used **Java**, **Kotlin** and **Ruby** extensively, and a bit of **C#**. I used **Javascript** too, mainly on the server side (NodeJS).
 
-But, besides programming languages, I try to learn and use techniques which help me work better, reducing the risks and lowering the stress, in any context I may happen to work: **Refactoring**, **Test-Driven Development**, **Continuous Integration**, **Project Automation** (and **DevOps** practices, too) among others.
+But, besides programming languages, I try to learn and use techniques which help me work better, reducing the risks and lowering the stress, in any context I may happen to work: **Refactoring**, **Test-Driven Development**, **Continuous Integration**, **Project Automation** (and **DevOps** practices, too) among others.    
 As a trainer, I held many courses on learning TDD, writing clean code, refactoring and taming [legacy code](https://coggle.it/diagram/W66Fk1uwS8-wOgM1/t/surviving-to-a-legacy-of-legacy-codebases-pietrodibello).
 
 I'm also a firmly believer in the power of **Visualization**, from visualizing the value stream of a production process, and capturing the workflow of a team on a board, to sketching ideas and diagrams.    
