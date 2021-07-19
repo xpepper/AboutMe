@@ -70,6 +70,7 @@ https://github.com/xpepper/java-basics
 * [Clean Architecture](https://www.amazon.it/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) *by Bob Martin*
 * [Get Your Hands Dirty on Clean Architecture](https://www.amazon.it/Hands-Dirty-Clean-Architecture-hands/dp/1839211962) *by Tom Hombergs*
 * [Remote](https://basecamp.com/books/remote) *by Jason Fried*
+* [The Three Signs of a Miserable Job: A Fable for Managers](https://www.amazon.it/Three-Signs-Miserable-Job-Employees/dp/0470580380) *by Patrick M. Lencioni*
 * [Team Guide to Metrics for Business Decisions](https://leanpub.com/metricsforbusinessdecisions) *by Mattia Battiston*
 * [The Nature of Software Development](https://pragprog.com/book/rjnsd/the-nature-of-software-development) *by Ron Jeffries*
 * [Serverless Architectures on AWS](http://amzn.to/2wOU3Lc) *by Peter Sbarski*
