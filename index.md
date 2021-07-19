@@ -109,10 +109,6 @@ You can find some of my slides here:
 ### Blogging: [https://gist.github.com/xpepper](https://gist.github.com/xpepper)
 I like to write short posts on **[HackMd](https://hackmd.io/@pierodibello)** and on **[Gist](https://gist.github.com/xpepper)**. I'm using HackMD and Gist as a sort of microblogging frameworks.
 
-I'm also **[helping out an app](https://github.com/xpepper/Roughdraft)** with this purpose: it publishes your public gists as a blog, with a nice and simple layout. You can check mine here: [http://xpepper.roughdraft.io/](http://xpepper.roughdraft.io/).
-
-I also keep a list of learning and studying activities on [my daily activity stream](https://xpepper.github.io/daily-activity-log/events).
-
 ##### Interviews
 I had the pleasure to be interviewed by Vasco Duarte for his podcast, [Scrum Master Toolbox Podcast](http://scrum-master-toolbox.org/). Here are the five episodes:
 
@@ -123,7 +119,7 @@ I had the pleasure to be interviewed by Vasco Duarte for his podcast, [Scrum Mas
 5. [http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/](http://scrum-master-toolbox.org/2016/12/podcast/pietro-di-bello-describes-symptoms-of-systemic-problems/)
 
 ### Other places
-Sometimes **[I tweet](https://twitter.com/pierodibello)**, but not that frequently. Sometimes I take nice pictures and publish them on **[Instagram](https://www.instagram.com/pierodibello/)**.
+Sometimes **[I tweet](https://twitter.com/pierodibello)**. Sometimes I take nice pictures and publish them on **[Instagram](https://www.instagram.com/pierodibello/)**.
 
 
 #### Notes
