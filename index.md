@@ -28,6 +28,10 @@ My most recent presentations were about [the daily journal practice we use in ou
 
 ### Noteworthy experiences I recently had
 
+##### [Euleria](https://euleria.it/) - E-health Company *(from August 2021)*
+
+I'm working with Euleria to help them improve their end-to-end product development process, focusing not just on the technical part of the flow, but also on the other parts (discovery, planning, releasing) that are key to the success of every digital company.
+
 ##### [Arca Vita](https://www.arcassicura.it/) - Insurance Company *(from September 2020)*
 
 I'm helping ArcaVita dev teams to improve their skills and awareness on clean code that works, with
