@@ -100,6 +100,9 @@ I use to write my notes and collect my learning moments on **[HackMD](https://ha
 I also write posts on **[Medium](https://pierodibello.medium.com/)** and on **[Gist](https://gist.github.com/xpepper)**.
 
 I use to create many mindmaps when I study!    
+
+![](https://i.imgur.com/BBLuQHp.jpg)
+
 Here are some of the lastest created:
 
 * [CUPID ‒ for joyful coding! Dan North 2021](https://my.mindnode.com/Q54MspV7qCWSNs18dtz7JftEiqqmYxsfsasMSLss#-57.7,27.5,2)
