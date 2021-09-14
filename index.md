@@ -49,8 +49,8 @@ My team worked on:
 
 ##### [Paros](https://www.paros.srl) - Payment platform for public administrations *(July 2014 - April 2016)*
 
-As an agile coach, I trained the dev team of the client on the engineering practices of XP, starting from clean code, TDD, refactoring and continuous integration.
-Then I worked everyday as an embedded component of the dev team (together with other colleagues from XPeppers), helping them embracing an agile and lean process (mainly Scrum plus technical practices from XP).
+As an agile coach, I trained the dev team of the client on the engineering practices of XP, starting from clean code, TDD, refactoring and continuous integration.    
+Then I worked everyday as an embedded component of the dev team (together with other colleagues from XPeppers), helping them embracing an agile and lean process (mainly Scrum plus technical practices from XP).    
 The platform is basically a backend developed in Java, publishing an API consumed by a single-page app (AngularJS). We've also developed a backoffice webapp, developed using the [Play framework](https://www.playframework.com/) with Java.
 
 The developed architecture uses extensively the [CQRS](http://martinfowler.com/bliki/CQRS.html) pattern and an [Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html) approach, to track all changes of the core application state as a sequence of events.
@@ -93,10 +93,14 @@ Gojko Adzic*
 You can find more info about me on **[my LinkedIn page](https://it.linkedin.com/in/pietrodibello)**. There you'll find some of my most relevant experiences, some projects I worked on, several presentations I gave about topics I care. And you can also find some nice photos taken here and there.
 
 ### GitHub: [https://github.com/xpepper](https://github.com/xpepper)
-On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating.
+On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating to _["sharpen the axe"](https://www.brainyquote.com/quotes/abraham_lincoln_109275)_.
 
-### HackMD: [https://hackmd.io/@pierodibello](https://hackmd.io/@pierodibello)
-Where I write my notes and collect my learning moments.
+### Writeups, articles and thoughts: [https://hackmd.io/@pierodibello](https://hackmd.io/@pierodibello)
+I use to write my notes and collect my learning moments on **[HackMD](https://hackmd.io/@pierodibello)**.    
+I also write posts on **[Medium](https://pierodibello.medium.com/)** and on **[Gist](https://gist.github.com/xpepper)**.
+
+### "Le voci del codice" YouTube channel
+I keep a youtube channel with my two friends, "[le voci del codice](https://www.youtube.com/channel/UCmPAZClDMjkqxjsqPfhqOxg)" (in italian), where we talk about different topics we find interesting (like [clean architecture](https://trello.com/b/zsuEunWJ/clean-architecture-book-discussions)) or we play coding katas together (like the [poker hands kata](https://github.com/xpepper/poker-hands-kata)), to stretch our skills.
 
 ### Presentations
 You can find some of my slides here:
@@ -109,10 +113,7 @@ You can find some of my slides here:
 * [Surviving a legacy codebase: tactics and tools - Codemotion Berlin 2018](https://www.youtube.com/watch?v=NGfvguzMjqw)
 * [Hiring Great People - Agile@Work 2015](https://www.youtube.com/watch?v=5dtixSAbI4c)
 * [Hiring Great People - KLab 2018](https://www.youtube.com/watch?v=q5YQbVNBhZ4)
-* [Crisi del software - nella testa di uno sviluppatore - Intervista a Pietro Di Bello](https://www.youtube.com/watch?v=QT25YeMZWtA)
-
-### Blogging
-I like to write short posts on **[HackMd](https://hackmd.io/@pierodibello)** and on **[Gist](https://gist.github.com/xpepper)**. I'm using HackMD and Gist as a sort of microblogging frameworks.
+* [Crisi del software - nella testa di uno sviluppatore - Intervista a Pietro Di Bello](https://www.youtube.com/watch?v=QT25YeMZWtA) (italian)
 
 ##### Interviews
 I had the pleasure to be interviewed by Vasco Duarte for his podcast, [Scrum Master Toolbox Podcast](http://scrum-master-toolbox.org/). Here are the five episodes:
