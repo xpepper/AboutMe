@@ -83,7 +83,6 @@ Gojko Adzic*
 * [Turn the Ship Around! A True Story of Turning Followers into Leaders](http://amzn.to/2wPELpu) *by L. David Marquet*
 * [Kanban in Action](http://amzn.to/2wPEH9e) *by Marcus Hammarberg and Joakim Sunden*
 * [Lean Change Management: Innovative Practices For Managing Organizational Change](http://amzn.to/2uN01uK) *by Jason Little*
-* [Node.js in Action](http://amzn.to/2vtMKsX) *by Cantelon, Harter et. al.*
 * [Hiring Geeks That Fit](https://leanpub.com/hiringgeeks) *by Johanna Rothman*
 * [Becoming a Technical Leader](https://www.amazon.it/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021) *by the great Gerald M. Weinberg*
 
