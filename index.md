@@ -110,9 +110,6 @@ Here are some of the lastest created:
 * [Surviving to a legacy codebase - How we take back control of legacy codebases](https://coggle.it/diagram/W66Fk1uwS8-wOgM1/t/surviving-to-a-legacy-of-legacy-codebases-pietrodibello)
 * [Rodrigue Schaefer: From monolith to microservices](https://coggle.it/diagram/XcasJ65A3X2-EJHM/t/rodrigue-schaefer-from-to-microservices-microxchg-2016)
 
-<img src="https://i.imgur.com/yiQMoAL.jpg" width=40%> <img src="https://i.imgur.com/yiQMoAL.jpg" width=40%>
-
-
 ### "Le voci del codice" YouTube channel
 I keep a youtube channel with my two friends, "[le voci del codice](https://www.youtube.com/channel/UCmPAZClDMjkqxjsqPfhqOxg)" (in italian), where we talk about different topics we find interesting (like [clean architecture](https://trello.com/b/zsuEunWJ/clean-architecture-book-discussions)) or we play coding katas together (like the [poker hands kata](https://github.com/xpepper/poker-hands-kata)), to stretch our skills.
 
