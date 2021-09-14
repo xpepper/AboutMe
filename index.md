@@ -103,7 +103,7 @@ I use to create many mindmaps when I study!
 
 ![](https://i.imgur.com/BBLuQHp.jpg)
 
-Here are some of the lastest created:
+Here are some of the lastest mindmaps created:
 
 * [CUPID ‒ for joyful coding! Dan North 2021](https://my.mindnode.com/Q54MspV7qCWSNs18dtz7JftEiqqmYxsfsasMSLss#-57.7,27.5,2)
 * [Clean Architecture - Component Coupling](https://my.mindnode.com/VUCozEaYpmQzd2eyyyfoYez2g8dtkPVNxXxqz6ca#-1760.7,-2305.1,2)
