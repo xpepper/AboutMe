@@ -96,8 +96,22 @@ You can find more info about me on **[my LinkedIn page](https://it.linkedin.com/
 On **[GitHub](https://github.com/xpepper)** you can find my personal projects, some projects I follow, and several exercises and katas I keep repeating to _["sharpen the axe"](https://www.brainyquote.com/quotes/abraham_lincoln_109275)_.
 
 ### Writeups, articles and thoughts: [https://hackmd.io/@pierodibello](https://hackmd.io/@pierodibello)
-I use to write my notes and collect my learning moments on **[HackMD](https://hackmd.io/@pierodibello)**.    
+I use to write my notes and collect my learning moments on **[HackMD](https://hackmd.io/@pierodibello)**.     
 I also write posts on **[Medium](https://pierodibello.medium.com/)** and on **[Gist](https://gist.github.com/xpepper)**.
+
+I use to create many mindmaps when I study!    
+Here are some of the lastest created:
+
+* [CUPID ‒ for joyful coding! Dan North 2021](https://my.mindnode.com/Q54MspV7qCWSNs18dtz7JftEiqqmYxsfsasMSLss#-57.7,27.5,2)
+* [Clean Architecture - Component Coupling](https://my.mindnode.com/VUCozEaYpmQzd2eyyyfoYez2g8dtkPVNxXxqz6ca#-1760.7,-2305.1,2)
+* [Those pesky pull request reviews](https://my.mindnode.com/wNZqHpqVmDyG6nFnqsCmzeqpJ1ydgfpQRXWGrTNR#180.6,-55.7,2)
+* [The Test Pyramid Goes Serverless - what kind of tests help you control the risk of errors and what changes when it comes to serverless](https://my.mindnode.com/brawqqDLdCTy4sPxiAy7rpyzxWwrgszMz892yidE)
+* [Microservices Lessons Learned from a startup perspective - Susanne Kaiser](https://my.mindnode.com/txHZjtwsZrzApzJNLL2vudVm35rkpwio1ZzF1pKX)
+* [Surviving to a legacy codebase - How we take back control of legacy codebases](https://coggle.it/diagram/W66Fk1uwS8-wOgM1/t/surviving-to-a-legacy-of-legacy-codebases-pietrodibello)
+* [Rodrigue Schaefer: From monolith to microservices](https://coggle.it/diagram/XcasJ65A3X2-EJHM/t/rodrigue-schaefer-from-to-microservices-microxchg-2016)
+
+<img src="https://i.imgur.com/yiQMoAL.jpg" width=40%> <img src="https://i.imgur.com/yiQMoAL.jpg" width=40%>
+
 
 ### "Le voci del codice" YouTube channel
 I keep a youtube channel with my two friends, "[le voci del codice](https://www.youtube.com/channel/UCmPAZClDMjkqxjsqPfhqOxg)" (in italian), where we talk about different topics we find interesting (like [clean architecture](https://trello.com/b/zsuEunWJ/clean-architecture-book-discussions)) or we play coding katas together (like the [poker hands kata](https://github.com/xpepper/poker-hands-kata)), to stretch our skills.
