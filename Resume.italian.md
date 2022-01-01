@@ -9,14 +9,9 @@ Cerco di applicare i principi e i valori dei metodi agili e del lean nella vita 
 
 Trovo appagante lavorare assieme ai team di sviluppo, per aiutarli nello sviluppo e nell'adozione delle pratiche tecniche migliori per il loro contesto e gli obiettivi che vogliono raggiungere.
 
+Lavoro attualmente in Casavo come product contributor.
+
 ## Cosa faccio
-Attualmente lavoro in **XPeppers**, dove aiuto i clienti a trasformare le loro idee in prodotti digitali. Uso i metodi agili, e più in generale qualunque approccio che contribuisca al successo dei progetti.
-In questo senso credo molto nei rilasci continui e fin da subito di valore verso il cliente, per aiutarlo ad ottenere dal nostro sviluppo il massimo vantaggio competitivo rispetto ai loro competitori.
-
-In XPeppers cerco di mettere uguale sforzo nello sviluppo dei prodotti e nella crescita dei miei colleghi di team, adottando le pratiche di cui ho visto in questi anni il valore: pair-programming, eccellenza tecnica, clean code, refactoring e testing automatico.
-Aiuto i miei colleghi anche nel loro percorso di crescita individuale, supportandoli nello studio teorico e pratico, e cercando di insegnare loro l'essenza dei metodi agili.
-
-Sì, mi piacciono molto i **metodi agili**.    
 Ho iniziato con **eXtreme Programming** (XP) nel 2002, nel primo team XP in Italia.
 Poi ho ampliato la mia esperienza con **Scrum**, **Lean** e **Kanban**, i cui principi mi hanno ispirato e guidato nel andare oltre le pratiche tecniche per lo sviluppo del software.
 
@@ -80,3 +75,11 @@ Ho avuto il piacere di partecipare come ospite ad un ciclo di cinque episodi di 
 ### Lingue conosciute
 * Italiano: madre lingua
 * Inglese	: buono
+
+### La mia passata esperienza in XPeppers / Claranet
+Ho lavorato a lungo in **XPeppers**, dove ho aiutato i clienti a trasformare le loro idee in prodotti digitali. Uso i metodi agili, e più in generale qualunque approccio che contribuisca al successo dei progetti.
+In questo senso credo molto nei rilasci continui e fin da subito di valore verso il cliente, per aiutarlo ad ottenere dal nostro sviluppo il massimo vantaggio competitivo rispetto ai loro competitori.
+
+In XPeppers cerco di mettere uguale sforzo nello sviluppo dei prodotti e nella crescita dei miei colleghi di team, adottando le pratiche di cui ho visto in questi anni il valore: pair-programming, eccellenza tecnica, clean code, refactoring e testing automatico.
+Aiuto i miei colleghi anche nel loro percorso di crescita individuale, supportandoli nello studio teorico e pratico, e cercando di insegnare loro l'essenza dei metodi agili.
+
