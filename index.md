@@ -1,14 +1,20 @@
-# About me
-I am a **passionate coder**, I like to build products that can change the life of people.   
-I am a **coach and a trainer**, I feel proud when I can help my teammates to get better every day at their job.   
-I am an **agile developer**, I try to embody the agile and lean principles in my professional life.   
+Hi! I'm Pietro 👋     
+I am a **passionate coder**, I like to build products that can change the life of people.    
+I am a **coach** and a **trainer**, I feel proud and happy when I can help my teammates get better every day at their jobs.    
+I am an **agile developer**, I try to embody the agile and lean principles in my professional life.    
+I love **refactoring**, **testing** and ~~eating an elephant~~ solving big problems one bite at a time, with tiny and safe steps.    
+
+My preferred programming languages are **Kotlin** and **Ruby**, but the one I know best is **Java**.     
+The people I owe the most are **Kent Beck**, **Joe Rainsberger** and **Martin Fowler** 🙏    
+
+I suck at drawing, but I like to draw ‘cause I think drawing and **visualizing** are the best way to understand things.    
+As a trainer, I held many courses on TDD, clean code, refactoring and taming [legacy code](https://coggle.it/diagram/W66Fk1uwS8-wOgM1/t/surviving-to-a-legacy-of-legacy-codebases-pietrodibello).    
+
+I currently work for **[Casavo](https://casavo.com/)** as a product contributor.
 
 ## What I do
-I currently work for [XPeppers](https://www.xpeppers.com/) (a [Claranet](https://www.claranet.it/) company), where I help clients to shape their ideas into actual digital products, using **agile methods**, and more generally any approach that can help a project to thrive and succeed.
 
-Here at XPeppers I put as much effort in developing products as I put in helping my teammates grow, **pair-programming** with them as much as I can, helping them to progress in their own learning paths, making code katas with them, and sharing the essence of agile methods.
-
-Yes, **I love agile methods!**
+I love agile methods!    
 I started with **eXtreme Programming** (XP) in 2002, in the first XP team in Italy.    
 Then I widened out my experiences with **Scrum**, **Lean** and **Kanban**, which all have great and inspiring principles.   
 In the end, "being agile" basically boils down to inspect & adapt, work in tiny steps, use short feedback loops, learn constantly and visualize everything. And work together.
@@ -26,7 +32,12 @@ I consider myself a *full-stack developer*, meaning that I deeply care for the o
 I'm also a **conference speaker**, because I like to share what I've learned and receive feedback from others about my ideas. And because, after all, I like challenges.    
 My most recent presentations were about [the daily journal practice we use in our teams](http://www.slideshare.net/pierodibello/vivere-per-raccontarla-limportanza-del-daily-journal-in-un-team-agile), [improving your hiring process to create a great team](http://www.slideshare.net/pierodibello/hiring-great-people-how-we-improved-our-recruiting-process-to-build-and-grow-a-great-agile-team), [creating a serverless architecture with AWS Lambda](https://slides.com/pierodibello/lessons-learned-from-aws-lambda) and some [lessons I learned on continuous delivery on a Java project](http://www.slideshare.net/pierodibello/continuous-delivery-su-progetti-java-cosa-abbiamo-imparato-facendoci-del-male). It was an honor and a pleasure for me to speak about these topics at Codemotion Berlin, ScanAgile Helsinki, Codemotion Milan, Italian Agile Days, among others.
 
-### Noteworthy experiences I recently had
+### My previous experience at XPeppers / Claranet
+I previoulsy worked for [XPeppers](https://www.xpeppers.com/) (a [Claranet](https://www.claranet.it/) company), where I helped clients to shape their ideas into actual digital products, using **agile methods**, and more generally any approach that can help a project to thrive and succeed.
+
+Here at XPeppers I put as much effort in developing products as I put in helping my teammates grow, **pair-programming** with them as much as I can, helping them to progress in their own learning paths, making code katas with them, and sharing the essence of agile methods.
+
+#### Noteworthy experiences I had at XPeppers
 
 ##### [Euleria](https://euleria.it/) - E-health Company *(from August 2021)*
 
