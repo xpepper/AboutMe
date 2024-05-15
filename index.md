@@ -10,8 +10,6 @@ The people I owe the most are **Kent Beck**, **Joe Rainsberger** and **Martin Fo
 I suck at drawing, but I like to draw ‘cause I think drawing and **visualizing** are the best way to understand things.    
 As a trainer, I held many courses on TDD, clean code, refactoring and taming [legacy code](https://coggle.it/diagram/W66Fk1uwS8-wOgM1/t/surviving-to-a-legacy-of-legacy-codebases-pietrodibello).    
 
-I currently work for **[Casavo](https://casavo.com/)** as a product contributor.
-
 ## What I do
 
 I love agile methods!    
