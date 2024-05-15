@@ -10,7 +10,7 @@ The people I owe the most are **Kent Beck**, **Joe Rainsberger** and **Martin Fo
 I suck at drawing, but I like to draw ‘cause I think drawing and **visualizing** are the best way to understand things.    
 As a trainer, I held many courses on TDD, clean code, refactoring and taming [legacy code](https://coggle.it/diagram/W66Fk1uwS8-wOgM1/t/surviving-to-a-legacy-of-legacy-codebases-pietrodibello).    
 
-You can find more up-to-date info about me here: https://pierodibello.notion.site/Who-am-I-7d7ee237d37f4298b8db94da6460221f
+You can find more up-to-date info about me [here](https://pierodibello.notion.site/Who-am-I-7d7ee237d37f4298b8db94da6460221f).
 
 ## What I do
 
